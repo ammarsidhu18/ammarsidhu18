@@ -16,7 +16,7 @@
 
 ### Technical Skills
 I have experience in: 
-- Data Analysis & Visualization - Python (NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup), R (Tidyverse, Terra), SQL (MySQL), Tableau, Microsoft Excel
+- Data Analysis & Visualization - Python (NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup), R (Tidyverse, Terra), SQL (MySQL), Tableau
 - Machine Learning & Deep Learning - Sciki-Learn, TensorFlow, Keras, 
 - GIS & Remote Sensing - ArcGIS Pro (ArcPy, ModelBuilder, Storymaps), Google Earth Engine (JavaScript), QGIS, ERDAS Imagine, GRASS GIS
 
