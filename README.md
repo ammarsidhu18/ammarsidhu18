@@ -16,9 +16,9 @@
 
 ### Technical Skills
 I have experience in: 
-- Data Analysis & Visualization - Python (NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup), R (Tidyverse, Terra), SQL (MySQL), Tableau
+- Data Analysis & Visualization - Python (NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup), R (Tidyverse, Terra), SQL (MySQL)
 - Machine Learning & Deep Learning - Sciki-Learn, TensorFlow, Keras, 
-- GIS & Remote Sensing - ArcGIS Pro (ArcPy, ModelBuilder, Storymaps), Google Earth Engine (JavaScript), QGIS, ERDAS Imagine, GRASS GIS
+- GIS & Remote Sensing - ArcGIS Pro (ArcPy, ModelBuilder, Storymaps), Google Earth Engine (JavaScript), QGIS, ERDAS Imagine
 
 ### Languages & Tools
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/qgis-%23589632.svg?&style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
