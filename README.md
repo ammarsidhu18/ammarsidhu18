@@ -12,7 +12,7 @@
 
 - :mailbox_with_no_mail: If you'd like to contact me, feel free to message me on my [email](ammarsidhu@outlook.com) or [linkedin](www.linkedin.com/in/ammar-sidhu)
 
-- :file_folder: Check out my Portfolio Projects here - [Portffolio]
+- :file_folder: Check out my Portfolio Projects here - [Portfolio]
 
 ### Technical Skills
 I have experience in: 
@@ -23,8 +23,8 @@ I have experience in:
 ### Languages & Tools
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/qgis-%23589632.svg?&style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
 
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammarsidhu18&theme=tokyonight_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsidhu18&layout=compact&theme=tokyonight_icons=true)](https://github.com/ammarsidhu18/github-readme-stats)
+![Ammar Sidhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarsidhu18&theme=tokyonight_icons=true)
+[![Mosed Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsidhu18&layout=compact&theme=tokyonight_icons=true)](https://github.com/ammarsidhu18/github-readme-stats)
 
 <!---
 ammarsidhu18/ammarsidhu18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
