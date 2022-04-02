@@ -10,7 +10,7 @@
 
 - :globe_with_meridians: GIS & Remote Sensing Proficiences: Geoprocessing, Spatial Statistics, Cartographic Design, Georeferencing, Landcover Analysis, Time Series Analysis & Change Detection
 
-- :mailbox_with_no_mail: If you'd like to contact me, feel free to message me on my [email](ammarsidhu@outlook.com) or [linkedin](www.linkedin.com/in/ammar-sidhu)
+- :mailbox_with_no_mail: If you'd like to contact me, feel free to message me on my [email](ammarsidhu@outlook.com) or [linkedin](https://www.linkedin.com/in/ammar-sidhu/)
 
 - :file_folder: Check out my Portfolio Projects here - [Portfolio]
 
