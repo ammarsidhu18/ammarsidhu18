@@ -12,7 +12,7 @@
 
 - :mailbox_with_no_mail: If you'd like to contact me, feel free to message me on my [email](ammarsidhu@outlook.com) or [linkedin](https://www.linkedin.com/in/ammar-sidhu/)
 
-- :file_folder: Check out my Portfolio Projects here - [Portfolio]
+- :file_folder: Check out my Portfolio Projects here - [Portfolio](https://ammarsidhu18.github.io/My-E-portfolio/)
 
 ### Technical Skills
 I have experience in: 
