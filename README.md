@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in the intersection of Spatial Data Science with Machine Learning Algorithms in GIS & Remote Sensing Analysis
 
-- 🌱 I’m currently learning learning how to leverage Python's Data Science stack to solve structured and unstructured data problems through coursework and self-study
+- 🌱 I’m currently learning how to leverage Python's Data Science stack to solve structured and unstructured data problems through coursework and self-study
 
 - :chart_with_upwards_trend: Data Science Proficiences: Data Preprocessing, Data Visualization, Regression, Classification, Clustering, Deep Learning, & Web Scraping 
 
